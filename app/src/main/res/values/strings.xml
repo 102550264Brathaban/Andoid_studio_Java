@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="station_Title">Glenferrie station, Ca 1934</string>
+    <string name="artist_name">Ada My Plante</string>
+    <string name="skv_source">State Library of Victoria</string>
+    <string name="Image_Description">March</string>
+</resources>
